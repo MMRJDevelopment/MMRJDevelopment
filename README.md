@@ -39,7 +39,7 @@ const expertise = {
 ## 📈 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Md Mahi Romjan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Let's Connect
